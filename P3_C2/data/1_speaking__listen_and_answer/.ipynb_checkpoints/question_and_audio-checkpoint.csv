@@ -1,0 +1,5 @@
+question,audio_file_path
+"What is your favorite hobby, and why do you enjoy it?",./data/1_speaking__listen_and_answer/question_0.wav
+"What is your dream travel destination, and what would you like to do there?",./data/1_speaking__listen_and_answer/question_1.wav
+What activities do you enjoy doing with your family?,./data/1_speaking__listen_and_answer/question_2.wav
+"What is your favorite type of cuisine, and why do you like it?",./data/1_speaking__listen_and_answer/question_3.wav

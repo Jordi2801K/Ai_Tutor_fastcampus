@@ -1,0 +1,11 @@
+sentence,audio_file_path
+I have a meeting at 3 PM,./data/5_writing__dictation/question_0.wav
+Can you help me with my homework,./data/5_writing__dictation/question_1.wav
+The weather is nice today,./data/5_writing__dictation/question_2.wav
+She loves reading books in her free time,./data/5_writing__dictation/question_3.wav
+I will see you tomorrow,./data/5_writing__dictation/question_4.wav
+Please pass me the salt,./data/5_writing__dictation/question_5.wav
+Don't forget to lock the door,./data/5_writing__dictation/question_6.wav
+He is learning how to play the guitar,./data/5_writing__dictation/question_7.wav
+We should go for a walk,./data/5_writing__dictation/question_8.wav
+What time does the movie start,./data/5_writing__dictation/question_9.wav

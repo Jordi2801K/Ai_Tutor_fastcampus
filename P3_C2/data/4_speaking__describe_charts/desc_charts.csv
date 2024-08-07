@@ -1,0 +1,83 @@
+img_path,desc
+./charts/tautgh_at_school.jpg,"The image is a pie chart showing the results of a survey on what language should be taught at school for children whose first language is not English. Here is the extracted information:
+
+- **Total Responses:**
+  - **English:** 61.9%
+  - **Not sure:** 12.7%
+  - **Spanish:** 8.9%
+  - **French:** 6.5%
+  - **Mandarin:** 3.4%
+  - **Arabic:** 1.0%
+  - **Other (please specify):** 2.0%
+
+The chart visually represents the preference distribution among the different languages, with English being the most preferred choice by a significant margin."
+./charts/social_media_pofile.png,"The image presents a bar graph titled ""Social Media Profiles: What Americans Aged 12-17 Post,"" showing data from the years 2006 and 2012. Here's a summary of the information:
+
+### Percentages of American Social Media Posts by Category:
+1. **Photos of Themselves:**
+   - 2006: 79%
+   - 2012: 91%
+
+2. **School Names:**
+   - 2006: 49%
+   - 2012: 71%
+
+3. **City or Town Names:**
+   - 2006: 61%
+   - 2012: 71%
+
+4. **Email Addresses:**
+   - 2006: 29%
+   - 2012: 53%
+
+5. **Cell Phone Numbers:**
+   - 2006: 2%
+   - 2012: 20%
+
+### Key Observations:
+- There is a noticeable increase in the percentage of youths posting their photos, school names, and email addresses from 2006 to 2012.
+- There is a significant rise in the percentage of users sharing their cell phone numbers as well. 
+
+The data suggests a growing trend in sharing personal information on social media among adolescents over the six-year period."
+./charts/forein_students_in_english_speaking_countries.png,"The image presents data regarding foreign students in English-speaking countries for the years 2004 and 2012. 
+
+### Graph Information:
+- **Title**: Foreign students in English-speaking countries
+- **Axes**:
+  - **Y-axis**: Number of students in thousands
+  - **X-axis**: Countries (USA, UK, Australia, Canada)
+- **Bars**:
+  - There are two bars for each country: one for the year 2004 (in blue) and one for 2012 (in gray).
+  - **USA**: 
+    - 2004: Approximately 200,000 students
+    - 2012: Slight decrease
+  - **UK**: 
+    - 2004: Approximately 180,000 students
+    - 2012: Increased to about 220,000 students
+  - **Australia**: 
+    - 2004: About 100,000 students
+    - 2012: Increased to about 150,000 students
+  - **Canada**: 
+    - 2004: Approximately 50,000 students
+    - 2012: Slight increase to around 60,000 students
+
+### Table Information:
+- **Title**: Foreign students as percentage of total student number
+- **Years**: 2004, 2012
+- **Data**:
+  - **USA**: 
+    - 2004: 2%
+    - 2012: 2%
+  - **UK**:
+    - 2004: 9%
+    - 2012: 13%
+  - **Australia**: 
+    - 2004: 19%
+    - 2012: 24%
+  - **Canada**: 
+    - 2004: 5%
+    - 2012: 7%
+
+### Observations:
+- The UK and Australia saw notable increases in the percentage of foreign students relative to total student numbers between 2004 and 2012.
+- The number of foreign students increased in most countries except for a slight decrease in the USA from 2004 to 2012."
